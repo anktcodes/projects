@@ -2,7 +2,14 @@
 
 1. NOTESY - A platform to share notes on dsa. Roadmaps and everyone's Handwritten Notes.
 
-2. Cloud photos like google photos, which shows local photos also just like the google photos. A cloud photo storage which stores images and as soon as a user uploads a photo, it uses ai to extract keywords similar to it which are later used to search for  that photo.
+2. Cloud photos like google photos, which shows local photos also just like the google photos. A cloud photo storage which stores images and as soon as a user uploads a photo, it uses ai to extract keywords similar to it which are later used to search for  that photo. Stores photos, 
+Auto backup feature, and photos are backed up to cloud, with 
+Every photo has a unique id and it extracts text from the photo and stores it as keywords with the unique id,
+So user can search the photo 
+Integrated ai,
+Additional features like searching for some things,
+Like a table in a photo then the photo will store keywords related to table, furniture, wood etc.
+
 
 3. Learning Ripple - to post About Learning i did. Like HTML, CSS, JS documentation. React.js Documentation, Fast API, Flask Documentaion, DSA Documentation.
 
